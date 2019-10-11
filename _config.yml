@@ -30,9 +30,10 @@ twitter_username: mhitchens
 github_username: mhitchens
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
